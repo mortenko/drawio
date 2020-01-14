@@ -1,6 +1,10 @@
 // $Id = DriveFile.js,v 1.12 2010-01-02 09 =45 =14 gaudenz Exp $
 // Copyright (c) 2006-2014, JGraph Ltd
 /**
+ * dasdad asmd asmd as, d,as d,asd
+ * dasdasm d asm d,as d,as d, as,d as
+ * das dmnas d,mas ,d as,d as, d,mas d,msa
+ * asdasdasdfasfasdfsadfasfsafasfsafdsfds
  * Constructs a new point for the optional x and y coordinates. If no
  * coordinates are given, then the default values for <x> and <y> are used.
  * @constructor
