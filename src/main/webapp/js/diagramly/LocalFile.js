@@ -94,7 +94,9 @@ LocalFile.prototype.saveAs = function(title, success, error)
 LocalFile.prototype.saveFile = function(title, revision, success, error)
 {
 	this.title = title;
-
+	console.log('title', title);
+	console.log('revision', revision);
+	console.log('success', success);
 	// Updates data after changing file name
 	this.updateFileData();
 	var data = this.getData();

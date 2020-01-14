@@ -10,6 +10,7 @@
  */
 LocalLibrary = function(ui, data, title)
 {
+	console.log('data', data);
 	LocalFile.call(this, ui, data, title);
 };
 
@@ -46,6 +47,7 @@ LocalLibrary.prototype.isAutosave = function()
  */
 LocalLibrary.prototype.saveAs = function(title, success, error)
 {
+	console.log('title', title);
 	this.saveFile(title, false, success, error);
 };
 
